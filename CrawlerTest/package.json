@@ -1,0 +1,9 @@
+{
+  "name": "crawler-test",
+  "version": "0.0.0",
+  "description": "CrawlerTest",
+  "main": "app.js",
+  "author": {
+    "name": "GINO"
+  }
+}
